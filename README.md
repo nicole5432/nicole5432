@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align = "center"> Olá 👋, eu sou a Nicole </h1>
+<h3 align = "center"> Estou me aprimorando em front end ... </h3>
+
+
